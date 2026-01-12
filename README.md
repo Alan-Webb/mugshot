@@ -6,6 +6,7 @@ Video Call app
 
 - React
 - Tailwind CSS
+- ZEGOCLOUD
 
 ## Author
 
