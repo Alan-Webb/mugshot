@@ -7,6 +7,7 @@ Rejuvenating holiday service website
 - React
 - Tailwind CSS
 - Framer Motion
+- Swiper-js
 
 ## Author
 
