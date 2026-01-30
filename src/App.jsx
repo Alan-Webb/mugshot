@@ -6,13 +6,13 @@ import Footer from "./components/Footer";
 
 const App = () => {
 	return (
-		<div>
+		<>
 			<Hero />
 			<Banner />
 			<Pricing />
 			<Services />
 			<Footer />
-		</div>
+		</>
 	);
 };
 
